@@ -1,0 +1,9 @@
+*{
+     box sizing: border-box;
+}
+.container{
+    background-color:
+    lightblue;
+    border: 1px solid brown;
+    border-radius: 5px;
+}
